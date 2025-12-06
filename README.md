@@ -36,9 +36,9 @@ object h3ch1z3r0 {
 
 <hr>
 
-<h3>MAIL:</h3>
+<h3 align="center">MAIL</h3>
 
-<a href="mailto:hechizerocode@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:hechizerocode@gmail.com" align="center"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <hr>
 
 <div align="center">
