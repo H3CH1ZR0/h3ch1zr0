@@ -3,6 +3,7 @@
 
 <hr>
 
+```kotlin
 object h3ch1z3r0 {
  val name = "h3ch1z3r0"
  val birth = "08th-august"
@@ -18,6 +19,7 @@ object h3ch1z3r0 {
    linkedin = this
  }
 }
+```
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
